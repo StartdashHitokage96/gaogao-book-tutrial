@@ -1,2 +1,7 @@
 # gaogao-book-tutrial
-TypeScriptとReactNextjsでつくる実践Webアプリケーション開発本
+
+TypeScript と ReactNextjs でつくる実践 Web アプリケーション開発本
+
+---
+
+- README 変更しました
